@@ -1,11 +1,11 @@
 # Repository
 
-<h1 align="center"> Hacktoberfest 2021 </h1>
+<h1 align="center"> Hacktoberfest 2023 </h1>
 
 ***
 <h3 align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        Link To HacktoberFest 2021
+    <a href="https://hacktoberfest.com/">
+        Link To HacktoberFest 2023
     </a>
 </h3>
 
